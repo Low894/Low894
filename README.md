@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi buddies 👋
+Đây là website đầu tiên của mình tạo ra :D 
 
 <!--
 **Low894/Low894** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
